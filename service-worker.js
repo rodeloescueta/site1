@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.61fc79fa6d69096916d0b5d1260de584.js"
+  "/site1/precache-manifest.3bcf0cf912a0802103f7d01e5209efef.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "template2020"});
